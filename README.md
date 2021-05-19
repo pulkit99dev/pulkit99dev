@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at pulkitnagpal987654321@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://pulkitnagpal.netlify.app/assets/pulkit.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Coder" src="https://raw.githubusercontent.com/pulkit99dev/pulkit99dev/main/assets/coder.gif" align="right"/>
+<img alt="Coder" style="width=854px; height=356px" src="https://raw.githubusercontent.com/pulkit99dev/pulkit99dev/main/assets/coder.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 

@@ -1,8 +1,7 @@
 ![Pulkit Nagpal](https://raw.githubusercontent.com/pulkit99dev/pulkit99dev/main/assets/front.png)
 
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pulkit</h2>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pulkit</h2> ![](https://visitor-badge.glitch.me/badge?page_id=pulkit99dev.pulkit99dev)
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -33,7 +32,6 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
 
-<br>
 <br>
 <br>
 <br>
